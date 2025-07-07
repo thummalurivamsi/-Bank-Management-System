@@ -118,5 +118,5 @@ OTP or 2FA for secure transactions
 👨‍💻 Developed By
 Vamsi T
 Graduate Engineer – Embedded Systems Enthusiast
-📧 vamsithummaluri@example.com
+📧 vamsithummaluri@gmail.com
 
